@@ -1,0 +1,19 @@
+body {
+    background-color: lightsalmon;
+    text-align: center;
+}
+#canvas {
+    border-width: medium;
+    background-color: white;
+    border-radius: 20px;
+    border-color: lightseagreen;
+    border-style: ridge;
+    width: 75%;
+    height: 25%;
+}
+#clear {
+    background-color: lightseagreen;
+    font-size: 30;
+    width: 10%;
+    height: 10%;
+}
